@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Douglas Kenji. I am currently a junior of Computer Science at Universidade Estadual de Maringá.
 
-I am looking for internships or junior dev offers. I am currently working as Full Stack Web Developer on a scientific initiation project with a focus on onthologies.
+I am looking for internships or junior dev offers. I am currently working as Full Stack Web Developer and on a scientific initiation project with a focus on onthologies.
 
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
