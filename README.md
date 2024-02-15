@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Douglas Kenji. I am currently a junior of Computer Science at Universidade Estadual de Maringá.
+My name is Douglas Kenji. I am currently a senior of Computer Science at Universidade Estadual de Maringá.
 
 I am looking for internships or junior dev offers. I am currently working as Full Stack Web Developer and on a scientific initiation project with a focus on onthologies.
 
